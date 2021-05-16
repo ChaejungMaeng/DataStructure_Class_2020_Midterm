@@ -15,7 +15,7 @@ Implement a c programming language that converts to a binary tree using a genera
 (However, the number of levels and nodes is not determined)
 (1(2(567)34(89))
 
- ![image](https://user-images.githubusercontent.com/38905066/118403617-36803700-b6aa-11eb-94c5-93fe0b60309b.png)
+### ![image](https://user-images.githubusercontent.com/38905066/118403617-36803700-b6aa-11eb-94c5-93fe0b60309b.png)
 
 
  
